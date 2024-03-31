@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Dixit</h1>
 <h3 align="center">Passionate Third-Year B.Tech IT Student, Lifelong Learner and a Problem Solver.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
+<img align="right" alt="coding" width="500" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitutkarsh87&label=Profile%20views&color=0e75b6&style=flat" alt="dixitutkarsh87" /> </p>
 
