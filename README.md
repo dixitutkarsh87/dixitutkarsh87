@@ -1,3 +1,4 @@
+![logo](https://github.com/dixitutkarsh87/dixitutkarsh87/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Dixit</h1>
 <h3 align="center">Passionate Third-Year B.Tech IT Student, Lifelong Learner and a Problem Solver.</h3>
 
